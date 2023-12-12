@@ -70,8 +70,9 @@
 
 <!-- By CodeAstro - codeastro.com -->
 
-<body style="background-image: url('../assets/images/in.jpeg'); background-repeat: no-repeat; background-size: cover; background-position: center center; margin: 0;background-size: cover;background-position: center center;">
-    <div class="main-wrapper">
+<body >
+    <div <body style="background-image: url('../assets/images/login2.jpeg'); background-repeat: no-repeat; background-size: cover; background-position: center center; margin: 0;">
+    <div class="main-wrapper"style="background-image: url('../assets/images/login2.jpeg'); background-repeat: no-repeat; background-size: cover; background-position: center center; margin: 0;">
         <!-- ============================================================== -->
         <!-- Preloader - style you can find in spinners.css -->
         <!-- ============================================================== -->
@@ -134,6 +135,7 @@
     <script>
         $(".preloader ").fadeOut();
     </script>
+    </div>
 </body>
 
 </html>
